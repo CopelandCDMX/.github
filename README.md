@@ -1,2 +1,2 @@
 # .github
-Repo especial c:
+Repo especial de la organización
