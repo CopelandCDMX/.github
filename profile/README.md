@@ -90,28 +90,19 @@ Buscando huellas...
 
 </div>
 
----
-
 ```bash
 > filosofia
 
 - Los proyectos inician con una idea...
 - pero viven gracias a quienes dejan su huella.
-```
----
 
-<div align="left">
-
-```bash
 > exit
 
 Proceso finalizado...
-Gracias por visitar Copeland.
+Gracias por visitar Copeland! c: 
+
+C:\Users\Copeland> 
 ```
+<div align="left">
 
 </div>
-
-```bash
-C:\Users\Copeland> 
-
-```
