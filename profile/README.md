@@ -2,12 +2,6 @@
 
 ```bash
 C:\Users\Copeland> python copeland_main.py
-```
-</div>
-
-<div align="center">
-
-<pre style="color:#0047FA; font-weight:bold;">
 
 >>> Bienvenido a Copeland <<<
  
@@ -17,11 +11,6 @@ C:\Users\Copeland> python copeland_main.py
 ██║      ██║   ██║██╔═══╝ ██╔══╝  ██║     ██╔══██║██║╚██╗██║██║  ██║
 ╚██████╗ ╚██████╔╝██║     ███████╗███████╗██║  ██║██║ ╚████║██████╔╝
  ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ 
-</pre>
-
-</div>
-
-```bash
 
 [ OK ] ...
 [ OK ] Cargando modulos...
