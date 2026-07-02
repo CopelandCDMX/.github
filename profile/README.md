@@ -78,6 +78,11 @@ Gracias por visitar Copeland! c:
       <b>Andrea Garcia</b><br>
       <a href="https://github.com/Andxty">GitHub</a>
     </td>
+    <td align="center">
+      <img src="./gif/girl.gif" width="50"><br>
+      <b>Alexis Escobedo</b><br>
+      <a href="https://github.com/Accceesss">GitHub</a>
+    </td>
   </tr>
 </table>
 </div>
