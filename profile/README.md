@@ -81,7 +81,7 @@ Gracias por visitar Copeland! c:
     <td align="center">
       <img src="./gif/boy.gif" width="50"><br>
       <b>Alexis Escobedo</b><br>
-      <a href="https://github.com/Accceesss">GitHub</a>
+      <a href="https://github.com/Accceesss">GitHub</a><br>
       <i>Estuvo aquí...</i>
     </td>
   </tr>
