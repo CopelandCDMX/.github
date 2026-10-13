@@ -84,6 +84,11 @@ Gracias por visitar Copeland! c:
       <a href="https://github.com/Accceesss">GitHub</a><br>
       <i>Estuvo aquí...</i>
     </td>
+    <td align="center">
+      <img src="./gif/boy.gif" width="50"><br>
+      <b>Alejandro Lujan</b><br>
+      <a href="https://github.com/AlexLujanRey">GitHub</a><br>
+    </td>
   </tr>
 </table>
 </div>
